@@ -1,11 +1,13 @@
 html {
   font-family: Helvetica;
   font-size: 14px;
+  text-align: center;
 }
 h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
+  background: url(/Users/johnhongmacintosh/Documents/CODECADEMY/projects/Broadway/the-flatiron-building.png);
 }
 h2 {
   font-size: 32px;
@@ -20,8 +22,10 @@ h3 {
 h6 {
   font-size: 18px;
   color: white;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
 }
 
 #designedin {
   color: white;
+  background: url(/Users/johnhongmacintosh/Documents/CODECADEMY/projects/Broadway/the-flatiron-building.png)
 }
