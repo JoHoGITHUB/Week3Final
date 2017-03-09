@@ -1,0 +1,27 @@
+html {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h6 {
+  font-size: 18px;
+  color: white;
+}
+
+#designedin {
+  color: white;
+}
